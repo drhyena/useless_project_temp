@@ -1,6 +1,8 @@
+# Echoes-of-Shakespeare
+Echoes of Shakespeare" brings the magic of Elizabethan English to modern voices. This project takes ordinary voice recordings and translates them into the rich, resonant tones of William Shakespeare
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Shakespeare here, Shakespeare there, Shakespeare everywhere!] 🎯
+# [Echoes Of Shakespeare] 🎯
 
 
 ## Basic Details
@@ -36,7 +38,7 @@ For Hardware:
   
 
 ### Implementation
-For Software:
+For Software: Any IDE or editor. We have used VScode
 # Installation
 must have these installed 
 - Speechrecognition
@@ -49,32 +51,36 @@ An API key from https://ai.google.dev/aistudio is required for the program to wo
 For Software:
 
 # Screenshots (Add at least 3)
-![Importing] ![image](https://github.com/user-attachments/assets/0efe5521-d7f9-43fc-bea6-6f7c255b60a4)
+![image](https://github.com/user-attachments/assets/0efe5521-d7f9-43fc-bea6-6f7c255b60a4)
+
 *Importing the necessary modules*
 
-![Linking the API key](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![image](https://github.com/user-attachments/assets/d781b972-800c-49aa-bef4-a3aaca25b9d1)
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+*Linking the Ai studio API*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+
+![image](https://github.com/user-attachments/assets/bc3c92bd-c6f0-4aa8-bbed-710aa6b0c014)
+
+
+*Function defention for translating the prompt*
+
+![image](https://github.com/user-attachments/assets/d13c92df-ff38-40d7-9eda-e641f41717f1)
+
+*Code for receiving the audio from the user and sending it for translationn*
+
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
+https://github.com/user-attachments/assets/45a72532-d012-465e-9701-ab596a775b80
+
+
+*This video shows the full process: the program accepts an audio prompt from the user before translating it into shakesperean english.*
+
 
 ## Team Contributions
 - Kevin   : Programming
@@ -83,6 +89,7 @@ For Software:
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
+
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
