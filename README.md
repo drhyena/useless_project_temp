@@ -1,72 +1,62 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Shakespeare here, Shakespeare there, Shakespeare everywhere!] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Decoders
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Kevin - CUSAT
+- Member 2: Meera - CUSAT
+- Member 3: Feona - CUSAT
 
 ### Project Description
-[2-3 lines about what your project does]
+S3h2 converts modern english into shakespeare's very own!
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Given the era in which the wonderful works of Shakespeare are often looked by our generation(primarily due to having to study it as part of a syllabus- yuck), we at DECODERS decided to
+bring forth the romanticism and the infamous literary style of the Shakespearean age.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+It's fun. Shakespeare is fun...if you can understand it. Perhaps not understanding it and having to sit there decoding it IS the fun. Nevertheless, we wished to emulate that magic by
+making a translator that translates modern english to shakespearean english!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python
+- Google AI visual studio API
+- Speechrecognition,google.generative ai, pyttxs3
+- VS CODE
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Must require a working microphone and speaker(can be inbuilt)
+  
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+must have these installed 
+- Speechrecognition
+- google.generative ai
+- pyttxs3
 
-# Run
-[commands]
+An API key from https://ai.google.dev/aistudio is required for the program to work.
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Importing] ![image](https://github.com/user-attachments/assets/0efe5521-d7f9-43fc-bea6-6f7c255b60a4)
+*Importing the necessary modules*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Linking the API key](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Components](Add photo of your components here)
@@ -87,9 +77,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Kevin   : Programming
+- Meera   : Programming
+- Feona   : Testing
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
